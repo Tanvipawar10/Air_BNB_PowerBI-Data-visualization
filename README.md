@@ -17,6 +17,8 @@ Airbnb_PowerBI_visualisation.pbix - Data transformation & data manipulation done
 
 # Airbnb Data Visualization Link:
 
+https://github.com/Tanvipawar10/Air_BNB_PowerBI-Data-visualization
+
 
 # Steps to proceed with the dashboard:
 
