@@ -44,4 +44,4 @@ Power BI (Transformation & Load): Leveraged Power BI to resolve inconsistencies 
 
 
 # Overview
-![image](https://github.com/user-attachments/assets/6bbbab87-9b8f-46b1-a7a2-5a8ae99a286a)
+![image](https://github.com/user-attachments/assets/9eed70d9-200d-49b7-882a-3ad7183b8223)
