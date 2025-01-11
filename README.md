@@ -15,7 +15,7 @@ AirBNB_PowerBI_Prep.csv - Appended cleaned dataset generated after Python Data W
 
 Airbnb_PowerBI_visualisation.pbix - Data transformation & data manipulation done with PowerBI.
 
-# Airbnb Data Visualization Link:
+# Airbnb Data Visualization Github Link:
 
 https://github.com/Tanvipawar10/Air_BNB_PowerBI-Data-visualization
 
