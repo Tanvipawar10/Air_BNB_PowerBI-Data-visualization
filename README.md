@@ -33,15 +33,15 @@ Power BI (Transformation & Load): Leveraged Power BI to resolve inconsistencies 
 # Divided the visualization findings into 4 categories:
 
 # Property analysis
-![image](https://github.com/user-attachments/assets/9df9e5db-5b74-4154-9c81-c7a25924057c)
-
-![image](https://github.com/user-attachments/assets/25ceb3c8-7cfc-4133-9e9a-97516a26155b)
+![image](https://github.com/user-attachments/assets/2ac4a9c0-8fd3-4edd-8a88-ddeb1f93e54c)
 
 # Pricing analysis
-![image](https://github.com/user-attachments/assets/14f89a96-8b8d-4324-9cf8-c3f18a4926f0)
+![image](https://github.com/user-attachments/assets/50962bd4-30df-4445-bcff-f4230a3c8cf1)
+
 
 # Host analysis
-![image](https://github.com/user-attachments/assets/913870dc-9324-4c2e-bb78-95e3e37ed297)
+![image](https://github.com/user-attachments/assets/023cd6fd-9167-4e66-af18-983b110da42a)
+
 
 # Overview
 ![image](https://github.com/user-attachments/assets/6bbbab87-9b8f-46b1-a7a2-5a8ae99a286a)
